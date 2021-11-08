@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="291 47 841 438" width="550px" height="391px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="116" height="20" x="604" y="323" style="fill:#007;stroke:black;"/>
+   <text width="116" height="20" x="609" y="337" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_employees</text>
+   <rect width="116" height="20" x="604" y="343" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="609" y="357" style="fill:black;" font-family="Arial" font-size="16px">lastName</text>
+   <rect width="116" height="20" x="604" y="363" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="609" y="377" style="fill:black;" font-family="Arial" font-size="16px">firstName</text>
+   <rect width="116" height="20" x="604" y="383" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="609" y="397" style="fill:black;" font-family="Arial" font-size="16px">extension</text>
+   <rect width="116" height="20" x="604" y="403" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="609" y="417" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="88" height="20" x="306" y="281" style="fill:#007;stroke:black;"/>
+   <text width="88" height="20" x="311" y="295" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_offices</text>
+   <rect width="88" height="20" x="306" y="301" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="311" y="315" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="88" height="20" x="306" y="321" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="311" y="335" style="fill:black;" font-family="Arial" font-size="16px">phone</text>
+   <rect width="88" height="20" x="306" y="341" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="311" y="355" style="fill:black;" font-family="Arial" font-size="16px">state</text>
+   <rect width="88" height="20" x="306" y="361" style="fill:none;stroke:black;"/>
+   <text width="88" height="20" x="311" y="375" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="144" height="20" x="682" y="62" style="fill:#007;stroke:black;"/>
+   <text width="144" height="20" x="687" y="76" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_products</text>
+   <rect width="144" height="20" x="682" y="82" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="687" y="96" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="144" height="20" x="682" y="102" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="687" y="116" style="fill:black;" font-family="Arial" font-size="16px">productDescription</text>
+   <rect width="144" height="20" x="682" y="122" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="687" y="136" style="fill:black;" font-family="Arial" font-size="16px">productVendor</text>
+   <rect width="144" height="20" x="682" y="142" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="687" y="156" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+</svg>
